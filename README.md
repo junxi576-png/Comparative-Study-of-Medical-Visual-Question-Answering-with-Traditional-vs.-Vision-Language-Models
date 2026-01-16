@@ -1,1 +1,1 @@
-https://github.com/junxi576-png/Comparative-Study-of-Medical-Visual-Question-Answering-with-Traditional-vs.-Vision-Language-Models/blob/main/presentation.mp4
+![Image](https://github.com/user-attachments/assets/73f8c139-66a6-4ed9-a07a-340685128317)
